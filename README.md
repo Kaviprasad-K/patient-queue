@@ -1,4 +1,6 @@
 Hospital Patient Priority Queue
+
+
 A min-heap based priority queue that decides which patient gets treated next.
 Priority 1 = Emergency, 2 = Urgent, 3 = Routine. Lowest number goes first,
 regardless of arrival order.
